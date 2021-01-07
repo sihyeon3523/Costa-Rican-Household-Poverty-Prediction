@@ -4,4 +4,4 @@
 
 가정의 빈곤의 수준을 분류하는 모델 개발. 
 
-["A Complete Introduction and Walkthrough"](https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough) 참고. 
+[A Complete Introduction and Walkthrough](https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough) 노트북 참고. 
