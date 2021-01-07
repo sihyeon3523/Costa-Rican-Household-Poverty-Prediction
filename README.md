@@ -1,6 +1,6 @@
 # Costa-Rican-Household-Poverty-Prediction
 
-가정 빈곤 수준 분류 모델 개발. 
+가구빈곤수준 예측모델 개발. 
 
 
 
